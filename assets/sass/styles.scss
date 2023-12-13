@@ -1,0 +1,20 @@
+$background: rgb(120, 23, 23);
+ 
+.details {
+    background-color: $background;
+}
+ 
+.container-header 
+{
+    background-color: $background;
+}
+
+nav {
+    ul {
+        li {
+            a {
+                font-size: 50px;
+            }
+        }
+    }
+}
